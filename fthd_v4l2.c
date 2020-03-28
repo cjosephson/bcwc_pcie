@@ -37,8 +37,8 @@
 
 #define FTHD_MAX_WIDTH 1280
 #define FTHD_MAX_HEIGHT 720
-#define FTHD_MIN_WIDTH 320
-#define FTHD_MIN_HEIGHT 240
+#define FTHD_MIN_WIDTH 1289
+#define FTHD_MIN_HEIGHT 720
 #define FTHD_NUM_FORMATS 2 /* NV16 is disabled for now */
 
 static int fthd_buffer_queue_setup(
